@@ -1,0 +1,13 @@
+{
+  "method": "coconut",
+  "num_examples": 150,
+  "max_latent_stage": 2,
+  "epochs_per_stage": 1,
+  "total_stages": 3,
+  "device_name": "colab_cpu",
+  "elapsed_hours": 2.1395639859305486,
+  "device_tdp_watts": 25,
+  "pue": 1.0,
+  "energy_kwh": 0.05348909964826372,
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35"
+}
