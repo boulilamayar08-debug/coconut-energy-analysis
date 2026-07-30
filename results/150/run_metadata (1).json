@@ -1,0 +1,13 @@
+{
+  "method": "baseline_cot",
+  "num_examples": 150,
+  "epochs": 3,
+  "batch_size": 1,
+  "total_steps": 450,
+  "device_name": "colab_cpu",
+  "elapsed_hours": 3.062066703637441,
+  "device_tdp_watts": 25,
+  "pue": 1.0,
+  "energy_kwh": 0.07655166759093603,
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35"
+}

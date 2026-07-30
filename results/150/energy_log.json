@@ -1,0 +1,30 @@
+{
+  "device_name": "colab_cpu",
+  "elapsed_hours": 3.062066703637441,
+  "device_tdp_watts": 25,
+  "pue": 1.0,
+  "energy_kwh": 0.07655166759093603,
+  "platform": "Linux-6.6.122+-x86_64-with-glibc2.35",
+  "checkpoints": [
+    {
+      "event": "start",
+      "t": 1785094753.293716
+    },
+    {
+      "event": "epoch_0_done",
+      "t": 1785098460.4512374
+    },
+    {
+      "event": "epoch_1_done",
+      "t": 1785102121.792678
+    },
+    {
+      "event": "epoch_2_done",
+      "t": 1785105776.7337832
+    },
+    {
+      "event": "stop",
+      "t": 1785105776.733849
+    }
+  ]
+}
