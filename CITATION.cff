@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Coconut Training-vs-Inference Energy Analysis"
+message: "If you use this code, please cite it as below."
+authors:
+  - family-names: Boulila
+    given-names: Mayar
+date-released: 2026-07-30
+url: "https://github.com/YOUR_USERNAME/coconut-energy-analysis"
